@@ -26,4 +26,4 @@ Data from the above sources combined and cleaned: [2016 + 2020 Absentee Ballots 
 Our list of polling places that have been closed or relocated since 2012 can be found [here](https://github.com/mississippifreepress/Election2020/blob/main/MS_Precincts_Closed_Or_Relocated_Since_2012.csv).
 
 ### Absentee Ballots Requested, Sent, and Received
-Using data from the [Mississippi Secretary of State], we have compiled a table of collecting absentee ballots requested from as well as sent and received by the state to date. The SOS has been releasing this data every Sunday leading up to election day.
+Using data from the [Mississippi Secretary of State](https://github.com/mississippifreepress/Election2020/blob/main/2020_MS_Absentees_by_County%20-%202020%20Absentees.csv), we have compiled a table of collecting absentee ballots requested from as well as sent and received by the state to date. The SOS has been releasing this data every Sunday leading up to election day.
