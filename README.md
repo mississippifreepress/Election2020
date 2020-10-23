@@ -22,3 +22,5 @@ Data from the above sources combined and cleaned: [2016 + 2020 Absentee Ballots 
 2012 polling place locations obtained from the [Center for Public Integrity](https://github.com/PublicI/us-polling-places).
 
 2020 polling place locations obtained from [public records released](https://github.com/mississippifreepress/Election2020/blob/main/2020%20COUNTY%20PRECINCTS.PDF) in the course of court cases against the Mississippi Secretary of State over the last several months.
+
+Our list of polling places that have been closed or relocated since 2012 can be found [here](https://github.com/mississippifreepress/Election2020/blob/main/MS_Precincts_Closed_Or_Relocated_Since_2012.csv).
