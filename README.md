@@ -1,5 +1,6 @@
 # Election2020
 
-Data for 2012 to 2018 provided by the [Center for Public Integrity](https://github.com/PublicI/us-polling-places).
-
-Data for the 2020 election obtained from [public records](https://github.com/mississippifreepress/Election2020/blob/main/2020%20COUNTY%20PRECINCTS.PDF).
+### [Absentee Ballots Received for 2020 Election](https://mfp.ms/voting)
+2016 election data obtained from the [Election Assistance Commission](https://www.eac.gov/research-and-data/datasets-codebooks-and-surveys).
+2020 election data obtained from the [Mississippi Secretary of State](https://github.com/mississippifreepress/Election2020/tree/main/2020%20MS%20Received%20Absentees). 
+Data on race: U.S. Census Bureau (2014-2018). Hispanic or Latino Origin by Race American Community Survey 5-year estimates. Retrieved from [Census Reporter](https://censusreporter.org).
