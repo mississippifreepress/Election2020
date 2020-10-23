@@ -1,5 +1,7 @@
 # Election2020
 
+Information about and data used to create the charts and visualizations for the Mississippi Free Press Voting Project.
+
 ### [Absentee Ballots Received for 2020 Election](https://mfp.ms/voting)
 2016 election data obtained from the [Election Assistance Commission](https://www.eac.gov/research-and-data/datasets-codebooks-and-surveys).
 
