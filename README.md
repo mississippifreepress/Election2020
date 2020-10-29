@@ -27,3 +27,6 @@ Our list of polling places that have been closed or relocated since 2012 can be 
 
 ### Absentee Ballots Requested, Sent, and Received
 Using data from the [Mississippi Secretary of State](https://github.com/mississippifreepress/Election2020/blob/main/2020_MS_Absentees_by_County%20-%202020%20Absentees.csv), we have compiled a table of collecting absentee ballots requested from as well as sent and received by the state to date. The SOS has been releasing this data every Sunday leading up to election day.
+
+### Relocated Voters in District 1, Madison County
+Using Data from the US Census Bureau's [American Community Survey 5-year estimates (2018)], we were able to create a map showing the recent polling place voter shuffle involving the Ridgeland Recreation Center and Mark Apartment polling places in District 1 of Madison County affected non-white voters. 
